@@ -6,3 +6,15 @@ This C++ program takes a user-inputted number and generates the multiplication t
 <div align="left">
   <img src="tbpt.png" >
 </div><br/>
+
+2] [Digit calculations](set.cpp)
+This C++ program takes an integer as input and calculates the number of set bits (1s) in its binary representation. It uses bitwise operations to count the set bits and displays the count. This code serves as an example of working with bitwise operations in C++.
+
+<div align="left">
+  <img src="set.png" >
+</div><br/>
+
+3]  [ number to text](numtotext.cpp)
+<div align="left">
+  <img src="num.png" >
+</div><br/>
